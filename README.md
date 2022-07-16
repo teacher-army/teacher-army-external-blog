@@ -14,6 +14,6 @@
    3. Русские слова преобразуются в транслит
 3. Написать статью, используя markdown-разметку
 4. Закомитить, запушить, выставить pull-request в наш [репозиторий](https://github.com/teacher-army/external-blog)
-5. Назначить ревьюером @Tanya-Hafizova и @kicumkicum
+5. Назначить ревьюером [Tanya-Hafizova](https://github.com/Tanya-Hafizova) и [kicumkicum](https://github.com/kicumkicum)
 6. Отреагировать на обратную связь
 7. Дождаться мержа ПРа и увидеть свою статью на сайте :)
